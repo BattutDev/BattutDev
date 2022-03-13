@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋 i'm Antoine Battut, A french computer science student who loving coding.
 
-<!--
-**BattutDev/BattutDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can see my open sources projects on this page, and see my portfolio [here](https://battut.dev)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Also you can contact me at `antoine@battut.dev`
+
+
+Actually knows few programming languages like Javascript/Typescript, PHP, HTML5/CSS3 for Web projects and Java, C++, Python for softwares and scriptings projects and SQL language for managing databases.
+
+I wanna learn Golang, VueJS, ReactJS
+
+I use Node.js and PostgreSQL for some of my personnal projects (I also use linters for cleanest code)
+
+I working with [Jetbrain's](https://www.jetbrains.com/) softwares like [WebStorm](https://www.jetbrains.com/webstorm/), [IntelliJ](https://www.jetbrains.com/idea/) or [PHPStorm](https://www.jetbrains.com/phpstorm) for coding  
+
+In the future, I want to be Web fullstack developer 
